@@ -1,0 +1,27 @@
+body{
+    background: #000000;
+}
+.text1{
+    color:#ffffff;
+    font-family:"Sans-serif"
+    text-align:;
+    text-decoration:underline;
+    text-shadow:1px 24px 20px #ff8000;
+}
+
+.text2{
+    color:#ffffff;
+    font-family:"Sans-serif"
+    font-weight:bold;
+    text-align: left;
+}
+
+img{
+    position: relative;
+    float: right;
+    top:60px;
+    bottom:;
+    right:;
+    left:;
+    
+}
